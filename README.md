@@ -1,2 +1,2 @@
 # occer
-HTMS CSS One Click for Clearly watER
+HTML CSS One Click for Clearly watER
